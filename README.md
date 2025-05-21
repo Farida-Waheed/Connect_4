@@ -90,7 +90,7 @@ def alphabeta(node, depth, alpha, beta, maximizing_player):
    - Click a column to drop your disc (Red).  
    - AI (Yellow) responds automatically.  
 
-(![image](https://github.com/user-attachments/assets/e02f769d-eac7-4193-ac0b-f379b85ec631))  
+![image](https://github.com/user-attachments/assets/e02f769d-eac7-4193-ac0b-f379b85ec631)
 
 ---
 

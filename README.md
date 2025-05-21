@@ -90,7 +90,7 @@ def alphabeta(node, depth, alpha, beta, maximizing_player):
    - Click a column to drop your disc (Red).  
    - AI (Yellow) responds automatically.  
 
-![Game Screenshot](![image](https://github.com/user-attachments/assets/e02f769d-eac7-4193-ac0b-f379b85ec631))  
+(![image](https://github.com/user-attachments/assets/e02f769d-eac7-4193-ac0b-f379b85ec631))  
 
 ---
 
@@ -110,6 +110,6 @@ def alphabeta(node, depth, alpha, beta, maximizing_player):
 ---
 
 ## 🔗 Related Projects  
-1. [Car Diagnosis Expert System]([https://github.com/your-repo/car-diagnosis-expert-system](https://github.com/Farida-Waheed/Car_Diagnosis_Expert_System))  
+1. [Car Diagnosis Expert System] (https://github.com/Farida-Waheed/Car_Diagnosis_Expert_System)  
    - Prolog-based rule engine for car troubleshooting.  
   

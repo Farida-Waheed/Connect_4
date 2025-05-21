@@ -1,6 +1,4 @@
-# Connect 4 AI with Minimax, Alpha-Beta, and Bidirectional Search 🎮🤖
-
-![Connect 4 Demo](demo-gif-url)  
+# Connect 4 AI with Minimax, Alpha-Beta, and Bidirectional Search 🎮🤖 
 *A strategic AI opponent for Connect 4 using advanced search algorithms, developed for Benha University's AI course.*
 
 ---
@@ -92,7 +90,7 @@ def alphabeta(node, depth, alpha, beta, maximizing_player):
    - Click a column to drop your disc (Red).  
    - AI (Yellow) responds automatically.  
 
-![Game Screenshot](screenshot-url)  
+![Game Screenshot](![image](https://github.com/user-attachments/assets/e02f769d-eac7-4193-ac0b-f379b85ec631))  
 
 ---
 
@@ -103,11 +101,15 @@ def alphabeta(node, depth, alpha, beta, maximizing_player):
  - Nourhan Farag Mohamed
  - Farida Waheed Abdelbary     
  - Nour Hesham Elsayed      
+---
+
+## 📜 Poster 
+
+![image](https://github.com/user-attachments/assets/7178f4fa-8ca5-49ca-8a3c-06f16978d964)
 
 ---
 
 ## 🔗 Related Projects  
-1. [Car Diagnosis Expert System](https://github.com/your-repo/car-diagnosis-expert-system)  
+1. [Car Diagnosis Expert System]([https://github.com/your-repo/car-diagnosis-expert-system](https://github.com/Farida-Waheed/Car_Diagnosis_Expert_System))  
    - Prolog-based rule engine for car troubleshooting.  
-2. [Bidirectional Search Report](Bidirectional_search_algorithm_report.pdf)  
-   - Theoretical analysis of bidirectional pathfinding.  
+  
